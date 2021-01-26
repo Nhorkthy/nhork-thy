@@ -1,0 +1,98 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.nhork{
+    width: 100%;
+    height: 100px;
+    background: darkblue;
+}
+h3{
+    color:darkgray;
+    text-align: center;
+    padding: 25px;
+}
+.contain{
+    width: 100%;
+    height: 350px;
+    display:flex;
+}
+.word{
+    background: rgb(94, 187, 224);
+    width: 100%;
+    height: 350px;
+}
+h2{
+    color: rgb(20, 20, 245);
+    font-size: 20px;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+}
+.photo{
+    width: 30%;
+    height: 350px;
+}
+img {
+    width: 100%;
+    height: 350px;
+}
+.manu{
+    height: 60px;
+    width: 100%;
+    background: rgb(216, 190, 45);
+}
+.a{
+    padding: 17px;
+    text-align: center;
+}
+a{
+    margin-left: 40px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.aboutme{
+    height: 500px;
+    width: 100%;
+
+}
+.content2{
+    width: 30%;
+    padding: 10px;
+}
+form{
+    background: green;
+    padding: 10px; 
+}
+input{
+    margin-top: 10px;
+}
+input[type="email"]{
+    width: 51%;
+    box-sizing: border-box;
+    margin-top: 10px;
+    padding: 2px;
+}
+input[type="text"]{
+    width: 48.99%;
+    font-size: 15px;
+    padding: 2px;
+}
+input[type="submit"]{
+    width: 49.65%;
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 20px;
+    border: none;
+    background:teal;
+}
+input[type="reset"]{
+    width: 49.65%;
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 20px;
+    border: none;
+    background: rgb(146, 122, 146);
+}
